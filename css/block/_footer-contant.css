@@ -1,0 +1,29 @@
+.footer {
+    margin-top: 130px;
+    padding-top: 103px;
+    background-color: #fafafa;
+}
+
+.footer .container {
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 46px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.from-footer{
+    border: 1px solid #FFFFFF;
+    width: 386px;
+    height: 56px;
+}
+
+.line {
+    width: 1240px;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+

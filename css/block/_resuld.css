@@ -1,0 +1,31 @@
+.result {
+    margin-top: 130px;
+    background-color: #FDF8F5;
+    padding: 56px 0;
+}
+
+.result-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.resuld-card {
+    text-align: center;
+}
+
+.resuld-card h2 {
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 70px;
+    color: #222222;
+    border-bottom: 3px solid #222222;
+}
+
+.resuld-card p {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #555;
+}

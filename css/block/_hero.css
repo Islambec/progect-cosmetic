@@ -1,0 +1,97 @@
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero .container .hero-content {
+    max-width: 621px;
+    margin-left: 130px;
+    
+}
+
+.hero .container h2 {
+    font-size: 56px;
+    font-weight: 500;
+    line-height: 70px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+
+.hero .container p {
+    width: 516px;
+    font-size: 20px;
+    font-weight: 400px;
+    line-height: 32px;
+    color: #555555;
+    margin-bottom: 30px;
+}
+
+.hero-search {
+    width: 326px;
+    height: 48px;
+    background-color: #ffffff;
+    padding: 8px;
+    margin-bottom: 60px;
+}
+
+.hero-search input {
+    width: 86%;
+    height: 100%;
+    font-size: 14px;
+    color: #999999;
+}
+
+.hero-search input::placeholder {
+    color: #999999;
+}
+
+.hero-search button {
+    width: 32px;
+    height: 32px;
+    background-color: black;
+}
+
+.hero-button {
+    border: 1px solid black;
+    background-color: #402F2C;
+    color: #ffffff;
+    width: 148px;
+    height: 58px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.hero-image {
+    position: relative;
+}
+
+.hero-cont {
+    border: 1px solid #F9F6F5;
+    width: 145px;
+    height: 138px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: #F9F6F5;
+}
+
+.hero-cont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 16px;
+}
+
+.hero-cont .hero-left {
+    width: 23.33px;
+    height: 11.67px;    
+
+}
+
+.hero-cont .hero-right {
+    width: 23.33px;
+    height: 11.67px;
+}
+
